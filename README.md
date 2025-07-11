@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Rupali Lakkewar
 
-I'm a DevOps Engineer with experience in deploying cloud-native apps on AWS, managing CI/CD pipelines, and implementing blue-green deployments. I transitioned from software testing to DevOps through hands-on experience, real projects, and continuous learning.
+I'm a DevOps Engineer with a strong foundation in software testing and quality assurance. I started my tech career as a manual tester, then transitioned into DevOps after a successful comeback to the IT field. I’ve since worked on deploying cloud-native apps on AWS, implementing CI/CD pipelines, optimizing database infrastructure using Aurora, and rolling out blue-green deployments.
+
+I bring a unique blend of QA mindset and cloud automation expertise — helping teams build, test, and release better software faster.
 
 ---
 
