@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Rupali Lakkewar
 
-<!--
-**luckrupali/luckrupali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a DevOps Engineer with experience in deploying cloud-native apps on AWS, managing CI/CD pipelines, and implementing blue-green deployments. I transitioned from software testing to DevOps through hands-on experience, real projects, and continuous learning.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tools & Technologies
+- **Cloud**: AWS (EC2, RDS, Aurora, S3, IAM, VPC)
+- **DevOps**: Git, GitHub, GitHub Actions, Shell Scripting
+- **Deployment**: Ubuntu Server, GitOps, Blue-Green Strategy
+- **Monitoring**: CloudWatch, Logs
+- **Languages**: Bash, SQL, Python (learning)
+
+---
+
+## 📁 Featured Projects *(coming soon)*
+- `aurora-read-optimization` – Optimize read-heavy workloads using Aurora reader endpoint  
+- `blue-green-deploy-node` – Blue-green deployment for Node.js app  
+- `ubuntu-gitops-server` – GitOps-style app deployment on Ubuntu
+
+---
+
+## 📫 Contact Me
+📧 Email: luckrupali22@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/rupali-lakkewar)
